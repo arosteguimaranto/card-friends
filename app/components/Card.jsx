@@ -8,10 +8,9 @@ const Card = ({ message, showMore }) => {
 
   // ✉️ Estructura de la carta para amigos del trabajo
   const messageParts = [
-    "¡Hola Team Viva Nómada! 😃",
+    "¡Holaaa! 😃",
            "Solo quería decirles que trabajar con ustedes es un verdadero placer.",
             "No solo son un gran equipo, sino también personas increíbles.  ",
-            
            " Gracias por todas las risas, el apoyo y la buena vibra.  ",
          "   ¡Sigamos pasándola bien y haciendo cosas chidas juntos! 🚀🎉" 
   ];
